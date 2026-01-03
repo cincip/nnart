@@ -1,0 +1,4 @@
+art_gen
+*.o
+frames/*.ppm
+output/*.mp4
