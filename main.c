@@ -89,5 +89,9 @@ int main() {
     }
 
     free(img);
+    free(w1.data); free(b1.data);
+    free(w2.data); free(b2.data);
+    free(w3.data); free(b3.data);
+
     return 0;
 }
